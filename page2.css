@@ -1,0 +1,120 @@
+body{
+    
+  
+    margin: -15px 10px -15px 10px;
+    background-color: seashell;
+    
+    
+}
+
+.main{display: flex;
+    justify-content: space-between;
+  
+   padding: 40px 20px;
+   border-width: 10px;
+  
+}
+#email{ color: red;
+    padding-right: 20px;}
+.blackpara{
+    color: black !important;
+}
+.secondleft{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-family: lobster;
+    background-color: whitesmoke;
+}
+.lastleft{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+.image{
+    width: 100px;
+    border-color: seashell;
+    border-style: solid;
+    border-radius: 30%;
+    background-color: seashell;
+   
+    
+   
+    
+}
+table{
+    color: slateblue;
+    border-width: 10px;
+    padding: 20px;
+      border-color: seashell;
+      border-style: solid;
+      border-radius: 20px;
+      padding-top: 20px;
+      padding-right: 5px;
+      padding-bottom: 20px;
+      padding-left: 5px;}
+     
+      p{ text-align: center;
+  color: darkblue;}
+  .right{ background-color: whitesmoke;}
+  .upperleft{
+    background-color: whitesmoke;
+  }
+  h3{ color: black;}
+  .heading{
+      color: darkgray;
+      text-align: center;
+      font-size: 100px;
+      
+  }
+
+
+div{
+    margin: 10px 10px 10px 10px;
+    
+}
+.infor{
+    padding-left: 20px;
+}
+   
+   .right{
+       padding: 20px;
+   }   
+   .divtittle{
+       color: slateblue;
+      
+       
+   }
+   
+   .name{
+       color: red;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+     
+
+
+
+
+    
